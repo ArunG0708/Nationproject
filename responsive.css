@@ -85,7 +85,7 @@
 }
 
 .study {
-    color: #fff;
+    color: black;
     font-size: 2rem;
     width: 20%;
     margin-left: -8%;
@@ -166,6 +166,7 @@
   }
 .font {
     font-size: large;
+    margin-top: 4%;
 }
 .red-line {
     width: 84%;
