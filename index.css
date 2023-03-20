@@ -455,7 +455,7 @@ color: #fff;
 .accordion-button::after {
     flex-shrink: 0;
     content: "";
-    background-image: url(' Arrow.svg');
+    background-image: url('Down\ Arrow.svg');
     background-repeat: no-repeat;
     background-size: 1.25rem;
     transition: transform .2s ease-in-out;
